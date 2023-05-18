@@ -10,4 +10,7 @@ In order to reproduce the experiments in the paper
 - run the command `./run.sh`
 
 ## Cite
+If you use the code from this repository please include the following reference:
+```
 TBA
+```
